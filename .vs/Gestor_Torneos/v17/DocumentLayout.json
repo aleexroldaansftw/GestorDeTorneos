@@ -1,22 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mamut\\source\\repos\\Gestor_Torneos\\",
+  "WorkspaceRootPath": "C:\\Users\\dave0\\source\\repos\\GestorDeTorneos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{48A7920D-9CC4-4E63-B942-581BF151E610}|Gestor_Torneos\\Gestor_Torneos.csproj|c:\\users\\mamut\\source\\repos\\gestor_torneos\\gestor_torneos\\vistas\\reportes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{48A7920D-9CC4-4E63-B942-581BF151E610}|Gestor_Torneos\\Gestor_Torneos.csproj|solutionrelative:gestor_torneos\\vistas\\reportes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\dave0\\Source\\Repos\\GestorDeTorneos\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48A7920D-9CC4-4E63-B942-581BF151E610}|Gestor_Torneos\\Gestor_Torneos.csproj|c:\\users\\mamut\\source\\repos\\gestor_torneos\\gestor_torneos\\vistas\\reportes.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48A7920D-9CC4-4E63-B942-581BF151E610}|Gestor_Torneos\\Gestor_Torneos.csproj|solutionrelative:gestor_torneos\\vistas\\reportes.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48A7920D-9CC4-4E63-B942-581BF151E610}|Gestor_Torneos\\Gestor_Torneos.csproj|c:\\users\\mamut\\source\\repos\\gestor_torneos\\gestor_torneos\\vistas\\gestionestadisticas.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{48A7920D-9CC4-4E63-B942-581BF151E610}|Gestor_Torneos\\Gestor_Torneos.csproj|c:\\users\\dave0\\source\\repos\\gestordetorneos\\gestor_torneos\\vistas\\gestionestadisticas.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{48A7920D-9CC4-4E63-B942-581BF151E610}|Gestor_Torneos\\Gestor_Torneos.csproj|solutionrelative:gestor_torneos\\vistas\\gestionestadisticas.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48A7920D-9CC4-4E63-B942-581BF151E610}|Gestor_Torneos\\Gestor_Torneos.csproj|c:\\users\\mamut\\source\\repos\\gestor_torneos\\gestor_torneos\\vistas\\gestionestadisticas.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{48A7920D-9CC4-4E63-B942-581BF151E610}|Gestor_Torneos\\Gestor_Torneos.csproj|C:\\Users\\dave0\\source\\repos\\GestorDeTorneos\\gestor_torneos\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{48A7920D-9CC4-4E63-B942-581BF151E610}|Gestor_Torneos\\Gestor_Torneos.csproj|solutionrelative:gestor_torneos\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A7920D-9CC4-4E63-B942-581BF151E610}|Gestor_Torneos\\Gestor_Torneos.csproj|C:\\Users\\dave0\\source\\repos\\GestorDeTorneos\\gestor_torneos\\vistas\\gestionestadisticas.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{48A7920D-9CC4-4E63-B942-581BF151E610}|Gestor_Torneos\\Gestor_Torneos.csproj|solutionrelative:gestor_torneos\\vistas\\gestionestadisticas.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A7920D-9CC4-4E63-B942-581BF151E610}|Gestor_Torneos\\Gestor_Torneos.csproj|C:\\Users\\dave0\\source\\repos\\GestorDeTorneos\\gestor_torneos\\vistas\\reportes.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A7920D-9CC4-4E63-B942-581BF151E610}|Gestor_Torneos\\Gestor_Torneos.csproj|solutionrelative:gestor_torneos\\vistas\\reportes.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A7920D-9CC4-4E63-B942-581BF151E610}|Gestor_Torneos\\Gestor_Torneos.csproj|C:\\Users\\dave0\\source\\repos\\GestorDeTorneos\\gestor_torneos\\vistas\\reportes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{48A7920D-9CC4-4E63-B942-581BF151E610}|Gestor_Torneos\\Gestor_Torneos.csproj|solutionrelative:gestor_torneos\\vistas\\reportes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,55 +62,82 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Reportes.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\mamut\\source\\repos\\Gestor_Torneos\\Gestor_Torneos\\Vistas\\Reportes.aspx.cs",
-              "RelativeDocumentMoniker": "Gestor_Torneos\\Vistas\\Reportes.aspx.cs",
-              "ToolTip": "C:\\Users\\mamut\\source\\repos\\Gestor_Torneos\\Gestor_Torneos\\Vistas\\Reportes.aspx.cs",
-              "RelativeToolTip": "Gestor_Torneos\\Vistas\\Reportes.aspx.cs",
-              "ViewState": "AgIAAJAAAAAAAAAAAAAmwLEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T02:05:44.808Z",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\dave0\\source\\repos\\GestorDeTorneos\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\dave0\\source\\repos\\GestorDeTorneos\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-04T20:03:16.571Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Reportes.aspx",
-              "DocumentMoniker": "C:\\Users\\mamut\\source\\repos\\Gestor_Torneos\\Gestor_Torneos\\Vistas\\Reportes.aspx",
-              "RelativeDocumentMoniker": "Gestor_Torneos\\Vistas\\Reportes.aspx",
-              "ToolTip": "C:\\Users\\mamut\\source\\repos\\Gestor_Torneos\\Gestor_Torneos\\Vistas\\Reportes.aspx",
-              "RelativeToolTip": "Gestor_Torneos\\Vistas\\Reportes.aspx",
+              "DocumentIndex": 1,
+              "Title": "GestionEstadisticas.aspx",
+              "DocumentMoniker": "C:\\Users\\dave0\\source\\repos\\GestorDeTorneos\\Gestor_Torneos\\Vistas\\GestionEstadisticas.aspx",
+              "RelativeDocumentMoniker": "Gestor_Torneos\\Vistas\\GestionEstadisticas.aspx",
+              "ToolTip": "C:\\Users\\dave0\\source\\repos\\GestorDeTorneos\\Gestor_Torneos\\Vistas\\GestionEstadisticas.aspx",
+              "RelativeToolTip": "Gestor_Torneos\\Vistas\\GestionEstadisticas.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-01-29T02:05:31.475Z",
+              "WhenOpened": "2025-01-29T02:01:03.834Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "GestionEstadisticas.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\mamut\\source\\repos\\Gestor_Torneos\\Gestor_Torneos\\Vistas\\GestionEstadisticas.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\dave0\\source\\repos\\GestorDeTorneos\\Gestor_Torneos\\Vistas\\GestionEstadisticas.aspx.cs",
               "RelativeDocumentMoniker": "Gestor_Torneos\\Vistas\\GestionEstadisticas.aspx.cs",
-              "ToolTip": "C:\\Users\\mamut\\source\\repos\\Gestor_Torneos\\Gestor_Torneos\\Vistas\\GestionEstadisticas.aspx.cs",
+              "ToolTip": "C:\\Users\\dave0\\source\\repos\\GestorDeTorneos\\Gestor_Torneos\\Vistas\\GestionEstadisticas.aspx.cs",
               "RelativeToolTip": "Gestor_Torneos\\Vistas\\GestionEstadisticas.aspx.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T02:02:54.434Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T02:02:54.434Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "GestionEstadisticas.aspx",
-              "DocumentMoniker": "C:\\Users\\mamut\\source\\repos\\Gestor_Torneos\\Gestor_Torneos\\Vistas\\GestionEstadisticas.aspx",
-              "RelativeDocumentMoniker": "Gestor_Torneos\\Vistas\\GestionEstadisticas.aspx",
-              "ToolTip": "C:\\Users\\mamut\\source\\repos\\Gestor_Torneos\\Gestor_Torneos\\Vistas\\GestionEstadisticas.aspx",
-              "RelativeToolTip": "Gestor_Torneos\\Vistas\\GestionEstadisticas.aspx",
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\dave0\\source\\repos\\GestorDeTorneos\\Gestor_Torneos\\Web.config",
+              "RelativeDocumentMoniker": "Gestor_Torneos\\Web.config",
+              "ToolTip": "C:\\Users\\dave0\\source\\repos\\GestorDeTorneos\\Gestor_Torneos\\Web.config",
+              "RelativeToolTip": "Gestor_Torneos\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-21T19:20:36.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Reportes.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\dave0\\source\\repos\\GestorDeTorneos\\Gestor_Torneos\\Vistas\\Reportes.aspx.cs",
+              "RelativeDocumentMoniker": "Gestor_Torneos\\Vistas\\Reportes.aspx.cs",
+              "ToolTip": "C:\\Users\\dave0\\source\\repos\\GestorDeTorneos\\Gestor_Torneos\\Vistas\\Reportes.aspx.cs",
+              "RelativeToolTip": "Gestor_Torneos\\Vistas\\Reportes.aspx.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAmwLEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T02:05:44.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Reportes.aspx",
+              "DocumentMoniker": "C:\\Users\\dave0\\source\\repos\\GestorDeTorneos\\Gestor_Torneos\\Vistas\\Reportes.aspx",
+              "RelativeDocumentMoniker": "Gestor_Torneos\\Vistas\\Reportes.aspx",
+              "ToolTip": "C:\\Users\\dave0\\source\\repos\\GestorDeTorneos\\Gestor_Torneos\\Vistas\\Reportes.aspx",
+              "RelativeToolTip": "Gestor_Torneos\\Vistas\\Reportes.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-01-29T02:01:03.834Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T02:05:31.475Z"
             }
           ]
         }
