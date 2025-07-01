@@ -249,6 +249,7 @@
     <Content Include="Vistas\AgregarEquipo.aspx" />
     <Content Include="Vistas\AgregarPartido.aspx" />
     <Content Include="Vistas\AgregarTorneo.aspx" />
+    <Content Include="Vistas\DiagramToreno.aspx" />
     <Content Include="Vistas\EditarEquipo.aspx" />
     <Content Include="Vistas\EditarPartido.aspx" />
     <Content Include="Vistas\EditarTorneo.aspx" />
@@ -439,6 +440,13 @@
     </Compile>
     <Compile Include="Vistas\AgregarTorneo.aspx.designer.cs">
       <DependentUpon>AgregarTorneo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\DiagramToreno.aspx.cs">
+      <DependentUpon>DiagramToreno.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Vistas\DiagramToreno.aspx.designer.cs">
+      <DependentUpon>DiagramToreno.aspx</DependentUpon>
     </Compile>
     <Compile Include="Vistas\EditarEquipo.aspx.cs">
       <DependentUpon>EditarEquipo.aspx</DependentUpon>
